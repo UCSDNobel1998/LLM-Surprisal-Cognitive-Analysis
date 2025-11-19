@@ -19,4 +19,4 @@ This project investigates the alignment between Large Language Model (GPT-2) pro
 - **Data/Viz:** Pandas, NumPy, Seaborn, Matplotlib
 
 ---
-*Project completed for UCSD COGS 150 (Fall 2025).*
+*Project completed for UCSD COGS 150 (Spring 2025).*
